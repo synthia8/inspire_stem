@@ -2,10 +2,12 @@
 # name : synthia wangui 
 # date : 20/02/2024
 
-r = float(input("enter value"))
-h = float(input ("enter value"))
-d = float( input("enter value"))
+r = float(input("enter the radius"))
+h = float(input ("enter the height"))
+d = float( input("enter the diameter"))
+
+pi = 3.142
 
 
-x = (22/7 * (r**2) * h)+(2*22/7*d)
+x = (pi * (r**2) * h)  + (2 * pi * d)
 print ("the surface area of the cylinder is",x)

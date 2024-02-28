@@ -3,9 +3,11 @@
 # date : 20/02/2024
 
 
-r = float(input("enter value"))
-h = float(input("enter value"))
+r = float(input("enter  the radius"))
+h = float(input("enter the height"))
 
-x = 22/7 * (r**2) * h
+pi = 3.142
+
+x = pi * (r**2) * h
 
 print ("the volume of the cylinder is:",x)

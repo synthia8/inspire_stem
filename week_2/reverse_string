@@ -1,0 +1,14 @@
+# a program to reverse a string
+# name: synthia wangui
+# date : 21/02/2024
+
+country = "russia"
+
+# convert to reverse string
+
+print(country[-5]) # a
+print(country[-4]) # i
+print(country[-3]) # s
+print(country[-2]) # S
+print(country[-1]) # U
+print(country[-0]) # r

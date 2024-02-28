@@ -1,0 +1,13 @@
+# a program to check if the word is palindrome 
+# name : synthia wangui
+# date : 21/02/2024
+
+name = "civic"
+
+# check if word is a palindrome
+
+print(name[-5])#c
+print(name[-4])
+print(name[-3])
+print(name[-2])
+print(name[-1])#c
