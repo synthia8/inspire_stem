@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1{
+    color: aqua;
+
+}
+input[type ="text"]{
+    padding: 16px;
+    font-size: 16px;
+}
+button{
+    padding:8px;
+    font-size:16px;
+    background-color: brown;
+    color: bisque;
+    cursor: pointer;
+}
