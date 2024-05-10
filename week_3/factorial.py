@@ -1,6 +1,7 @@
 # a program to solve factorials 
 # name : synthia wangui
 # date : 26/02/2024
+
 factorial_nums = 1
 max_value =int(input("enter the maximum number"))
 for x in range (1,max_value + 1):

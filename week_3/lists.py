@@ -18,5 +18,11 @@ print (items)
 #append(),remove(),insert(),count(),index()
 
 items.pop
-print ("n")
+print ("/n")
 print(items)
+
+items.reverse
+print("/n")
+print (items)
+
+

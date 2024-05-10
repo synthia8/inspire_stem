@@ -17,6 +17,12 @@ class car:
     def get_make(self):
         return self.make
     
+    def set_colour(self,colour):
+        self.colour = colour
+
+    def get_colour(self):
+        return self.colour
+    
 
     
 friends_car = car("impala","chrevolet","1969","2500cc","lilac")

@@ -1,6 +1,6 @@
-
-
-
+# a program that can use if else
+# name : synthia wangui
+# date : 27 /02 /2024
 
 
 age =25

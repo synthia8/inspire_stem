@@ -2,6 +2,7 @@
 # name : synthia wangui
 # date : 28/02/2024
 
+# a copy of another dictionary
 car = {"model":"mercides benz","colour":"black","cost":"8.5 million","exhausters":"two","seats":"foursitter"}
 print (car["model"])
 print (car["colour"])
